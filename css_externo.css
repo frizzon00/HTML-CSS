@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Div A */
+  #divA {
+    background-color: #5001e4; 
+    width: 500px;
+    height: 500px;
+  }
+  
+  /* Div B */
+  #divB {
+    background-color: #98FB98;
+    height: 50%;
+    width: 50%;
+  }
+  
+  /* Parágrafo C */
+  #paragrafoC {
+    color: #2F4F4F; 
+    background-color: #FF6347; 
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+  
+  /* Div D */
+  #divD {
+    background-color: #9b1515; 
+    width: 50%;
+    height: 50vh;
+  }
+  
+  /* Div E */
+  #divE {
+    background-color: #FF4500; 
+    width: 75vw;
+    height: 50%;
+  }
+  
